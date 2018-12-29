@@ -2,3 +2,5 @@ Hi , this file is for branch.
 
 
 This article after commiting in branch .
+
+hi this will be committed in the master branch.
